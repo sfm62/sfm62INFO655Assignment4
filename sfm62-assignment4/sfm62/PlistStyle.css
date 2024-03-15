@@ -1,0 +1,12 @@
+/*PlistStyle.css */
+
+.playlist {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+}
+
+.podcastitem {
+    border-left: 4px solid #007bff
+}
